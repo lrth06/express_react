@@ -7,7 +7,7 @@ export function Layout() {
       '
    
         <ul>
-          <Link to="/home">
+          <Link to="/">
             <li>Home</li>
           </Link>
           <Link to="/about">
