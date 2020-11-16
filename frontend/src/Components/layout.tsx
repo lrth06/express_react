@@ -5,7 +5,7 @@ export function Layout() {
   return (
     <nav>
       '
-      <Router>
+   
         <ul>
           <Link to="/home">
             <li>Home</li>
@@ -17,7 +17,7 @@ export function Layout() {
             <li>Contact</li>
           </Link>
         </ul>
-      </Router>
+     
     </nav>
   );
 }
