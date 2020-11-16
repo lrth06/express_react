@@ -1,0 +1,12 @@
+POST http://localhost:5000/test/
+content-type: application/json
+
+
+		{	"id": "1",
+			"name": "Toby",
+			"email": "Toby@gmail.com"
+        }
+       
+
+	
+

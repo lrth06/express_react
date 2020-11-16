@@ -1,0 +1,18 @@
+@import 'variables';
+nav{
+  display: block;
+  height: 3rem;
+  background: $header
+}
+nav li{
+  display: inline;
+  padding: 0.25rem;
+}
+a{
+  color: $white;
+  text-decoration: none;
+}
+nav li:hover{
+  color: $hover;
+  transition: all $transition;
+}
