@@ -7,13 +7,13 @@ export function Layout() {
       '
       <Router>
         <ul>
-          <Link to="/">
+          <Link to="/home">
             <li>Home</li>
           </Link>
-          <Link to="/">
+          <Link to="/about">
             <li>About</li>
           </Link>
-          <Link to="/">
+          <Link to="/contact">
             <li>Contact</li>
           </Link>
         </ul>
