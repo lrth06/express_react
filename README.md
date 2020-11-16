@@ -19,7 +19,7 @@ A Template for building advanced Node.js APIs using the following packages.\
 Clone this Repo and then in your favorite terminal run\
 cd express_react\
 npm install\
-npm install-frontend
+npm run install-frontend
 
 ### There are many options for running the server(s)
 
