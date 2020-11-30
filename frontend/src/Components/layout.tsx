@@ -3,9 +3,7 @@ import "../scss/layout.scss";
 import { BrowserRouter as Router, Link } from "react-router-dom";
 export function Layout() {
   return (
-    <nav>
-      '
-   
+    <nav>        
         <ul>
           <Link to="/">
             <li>Home</li>

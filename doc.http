@@ -1,10 +1,10 @@
-POST http://localhost:5000/test/
+POST http://localhost:5000/mail
 content-type: application/json
 
 
-		{	"id": "1",
-			"name": "Toby",
-			"email": "Toby@gmail.com"
+	{	"name":"Frank Castle",
+		"email": "Punisher@gmail.com",
+		"content":"Hey this is the punisher"
         }
        
 
